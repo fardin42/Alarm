@@ -46,7 +46,7 @@ function alarmSetFunction() {
 				
 			});
 		interVal = setTimeout(() => {
-			tone.innerHTML = `<audio src="./media/gear5xdrumofliberation.mp3" autoplay></audio>`;
+			tone.innerHTML = `<audio src="./media/alarm-clock-short-6402.mp3" autoplay></audio>`;
 			alarmDiv.remove();
 			cnt--;
 			
